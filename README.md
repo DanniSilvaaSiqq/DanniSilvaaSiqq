@@ -18,6 +18,16 @@
 </div>
 <br>
 
+### 🎮 Atividade de Commits (Snake Game)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanniSilvaaSiqq/DanniSilvaaSiqq/output/github-contribution-grid-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanniSilvaaSiqq/DanniSilvaaSiqq/output/github-contribution-grid-light.svg">
+    <img alt="github contribution animation" src="https://raw.githubusercontent.com/DanniSilvaaSiqq/DanniSilvaaSiqq/output/github-contribution-grid-dark.svg" width="100%">
+  </picture>
+</div>
+
 ## Hi 👋, I'm Daniel
 **Desenvolvedor Full-Stack em Formação | Automação de Processos**
 
