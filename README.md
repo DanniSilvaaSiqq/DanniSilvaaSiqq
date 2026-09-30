@@ -2,7 +2,7 @@
 
 <!-- Banner Estilo Jogo / Pixel Art -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/a0/0a/76/a00a7695c029fc12d5d7cb46c59296e6.gif" alt="Coding Pixel Art" width="100%"/>
+  <img src="./assets/Banner.png" alt="Banner Daniel Silva" width="100%"/>
 </div>
 <br>
 
